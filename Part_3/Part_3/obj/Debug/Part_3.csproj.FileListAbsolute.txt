@@ -1,0 +1,7 @@
+C:\Users\Ivan\Desktop\Лаб_3_КС\Part_3\Part_3\bin\Debug\Part_3.exe.config
+C:\Users\Ivan\Desktop\Лаб_3_КС\Part_3\Part_3\bin\Debug\Part_3.exe
+C:\Users\Ivan\Desktop\Лаб_3_КС\Part_3\Part_3\bin\Debug\Part_3.pdb
+C:\Users\Ivan\Desktop\Лаб_3_КС\Part_3\Part_3\obj\Debug\Part_3.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Лаб_3_КС\Part_3\Part_3\obj\Debug\Part_3.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Лаб_3_КС\Part_3\Part_3\obj\Debug\Part_3.exe
+C:\Users\Ivan\Desktop\Лаб_3_КС\Part_3\Part_3\obj\Debug\Part_3.pdb
